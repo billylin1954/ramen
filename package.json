@@ -4,7 +4,7 @@
     "mongodb": "^6.9.0",
     "netlify": "^13.1.21"
   }
-},
+}
 {
-"start":"node index.js",
+"start":"node index.js"
 }
