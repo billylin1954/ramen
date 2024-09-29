@@ -5,6 +5,7 @@
     "netlify": "^13.1.21"
   },
 {
+“version”: "21.1.0",
 "start":"node index.js"
 }
 }
